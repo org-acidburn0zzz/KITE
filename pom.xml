@@ -43,7 +43,7 @@
     <kite.org.json.version>20180130</kite.org.json.version>
     <kite.allure-java-common.version>2.10.0</kite.allure-java-common.version>
     <kite.allure2-model-pojo.version>1.0.0</kite.allure2-model-pojo.version>
-    <kite.jackson-annotations.version>2.9.8</kite.jackson-annotations.version>
+    <kite.jackson-annotations.version>2.11.2</kite.jackson-annotations.version>
 
     <!-- Utility dependencies -->
     <kite.sqlite.jdbc.version>3.23.1</kite.sqlite.jdbc.version>
