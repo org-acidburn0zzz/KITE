@@ -46,7 +46,7 @@
     <kite.jackson-annotations.version>2.9.8</kite.jackson-annotations.version>
 
     <!-- Utility dependencies -->
-    <kite.sqlite.jdbc.version>3.23.1</kite.sqlite.jdbc.version>
+    <kite.sqlite.jdbc.version>3.32.3.2</kite.sqlite.jdbc.version>
     <kite.common-io.version>2.6</kite.common-io.version>
     <kite.jcraft.version>0.1.55</kite.jcraft.version>
     <kite.tess4j.version>4.0.2</kite.tess4j.version>
